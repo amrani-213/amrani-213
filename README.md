@@ -118,7 +118,8 @@ Python • PyTorch • MediaPipe
 Streamlit • OpenCV
 ```
 
-[🔗 View Project]((https://github.com/amrani-213/emotion_recognition)) | [🚀 Live Demo]((https://github.com/amrani-213/emotion_recognition?tab=readme-ov-file#-streamlit-app))
+[🔗 View Project](https://github.com/amrani-213/emotion_recognition)
+[🚀 Live Demo](https://github.com/amrani-213/emotion_recognition?tab=readme-ov-file#-streamlit-app)
 
 </td>
 </tr>
@@ -145,7 +146,7 @@ Python • Statsmodels • Pandas
 Matplotlib • Jupyter
 ```
 
-[🔗 View Project]([https://github.com/AmraniBoubdellah/FDI-Algeria-ARDL](https://github.com/amrani-213/FDI_Impact_On_EconGrowth))
+[🔗 View Project]((https://github.com/amrani-213/FDI_Impact_On_EconGrowth))
 
 </td>
 <td width="50%" valign="top">
