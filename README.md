@@ -216,28 +216,6 @@ Stay tuned! ⭐
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amrani-213&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amrani-213&theme=tokyonight&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrani-213&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amrani-213&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
