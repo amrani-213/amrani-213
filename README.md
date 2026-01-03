@@ -157,7 +157,6 @@ Matplotlib • Jupyter
 
 - 🔮 NLP for Algerian dialect
 - 🎥 Video analysis for sign language
-- 🗣️ Speech-to-text for Arabic
 - 🌐 Accessibility web tools
 
 Stay tuned! ⭐
