@@ -350,9 +350,8 @@ Learning from experts in the field
 </table>
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-
 **💡 "Building AI that creates opportunities for everyone"**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 
 </div>
