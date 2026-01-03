@@ -110,7 +110,7 @@ MediaPipe • NumPy • Pandas
 - ✅ 7 emotion classes
 - ✅ Real-time inference
 - ✅ Streamlit web interface
-- ✅ High accuracy (90%+)
+
 
 **Tech Stack:**
 ```
