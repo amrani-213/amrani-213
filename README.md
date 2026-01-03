@@ -58,12 +58,16 @@ class DataScientist:
 ### Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge)
+![Scikit--Image](https://img.shields.io/badge/Scikit--Image-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-0E1117?style=for-the-badge)
 
 ### Tools & Environment
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 </div>
 
