@@ -146,7 +146,7 @@ Python • Statsmodels • Pandas
 Matplotlib • Jupyter
 ```
 
-[🔗 View Project]((https://github.com/amrani-213/FDI_Impact_On_EconGrowth))
+[🔗 View Project](https://github.com/amrani-213/FDI_Impact_On_EconGrowth)
 
 </td>
 <td width="50%" valign="top">
