@@ -34,7 +34,7 @@ tools = ["Git", "Jupyter", "VS Code"]
 
 I'm open to research discussions, collaborative projects, and internship opportunities in ML/AI—especially around assistive technologies or sign language processing in the MENA region.
 
-- 💼 [[LinkedIn](https://www.linkedin.com/in/amrani-bouabdellah-430169349/)](#) 
+- 💼 [[LinkedIn](https://www.linkedin.com/in/amrani-bouabdellah-430169349/)] 
 - 📧 [Email](abdouugk@gmail.com)
 - 💬 Or just open an issue on any of my repos! 😊
 
