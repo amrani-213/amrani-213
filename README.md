@@ -17,7 +17,7 @@
 ```python
 class DataScientist:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "Amrani Bouabdellah"
         self.location = "Algeria 🇩🇿"
         self.education = "MSc Data Science"
         self.background = ["Statistics", "Econometrics", "Economics"]
