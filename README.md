@@ -5,7 +5,7 @@
 - 🇩🇿 MSc Data Science student in Algeria  
 - 🔍 Exploring deep learning for **inclusive AI**—especially **Algerian Sign Language (ALGSL)** recognition  
 - 📊 Background in **statistics, econometrics & economics**  
-- 💡 Passionate about using data science to expand my knowledge to new fields and challenges 
+- 💡 Passionate about using data science to expand my knowledge onto new fields and challenges 
 - 🛠️ Building projects with **Python, TensorFlow / PyTorch, and OpenCV**  
 
 ## 🌱 Currently
