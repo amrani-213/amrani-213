@@ -107,6 +107,6 @@ I'm actively seeking:
 
 💡 *"Building AI that creates opportunities for everyone"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=amrani-213&color=blueviolet&style=for-the-badge)
 
 </div>
