@@ -351,14 +351,6 @@ Learning from experts in the field
 
 ---
 
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
-
 **💡 "Building AI that creates opportunities for everyone"**
 
 
