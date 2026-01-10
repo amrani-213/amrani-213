@@ -151,8 +151,6 @@ Matplotlib • Jupyter
 </td>
 <td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
 ### 🚗 FastGAN Car Generation
 <img src="https://img.shields.io/badge/Status-Complete-success?style=for-the-badge" />
 
@@ -173,6 +171,12 @@ LPIPS • Torchvision • GANs
 [🔗 View Project](https://github.com/amrani-213/Fast_GAN_demo) | [💾 Checkpoint](https://drive.google.com/drive/folders/1SeO2Kp7KkqyZvMp36A7Nny9iPI8lzRgb)
 
 </td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ---
 
