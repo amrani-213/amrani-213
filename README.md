@@ -151,22 +151,28 @@ Matplotlib • Jupyter
 </td>
 <td width="50%" valign="top">
 
-### 🎨 More Projects Coming Soon...
-<img src="https://img.shields.io/badge/Status-Planning-blue?style=for-the-badge" />
+<td width="50%" valign="top">
 
-**What's in the pipeline:**
+### 🚗 FastGAN Car Generation
+<img src="https://img.shields.io/badge/Status-Complete-success?style=for-the-badge" />
 
-- 🔮 NLP for Algerian dialect
-- 🎥 Video analysis for sign language
-- 🌐 Accessibility web tools
+**GAN-based synthetic car image generation**
 
-Stay tuned! ⭐
+🎯 **Key Features:**
+- ✅ 23,000 iteration training
+- ✅ 256×256 high-quality outputs
+- ✅ Stanford Cars dataset
+- ✅ Real-time generation
+
+**Tech Stack:**
+```
+Python • PyTorch • FastGAN
+LPIPS • Torchvision • GANs
+```
+
+[🔗 View Project](https://github.com/amrani-213/Fast_GAN_demo) | [💾 Checkpoint](https://drive.google.com/drive/folders/1SeO2Kp7KkqyZvMp36A7Nny9iPI8lzRgb)
 
 </td>
-</tr>
-</table>
-
-</div>
 
 ---
 
